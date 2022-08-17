@@ -5,7 +5,7 @@
     <jmxConfigurator/>
 
     <appender name="file" class="ch.qos.logback.core.FileAppender">
-        <file>${Calories_Nikolay}/log/calories.log</file>
+        <file>C:\JAVA\Spring_JDBC_Template_Realization/log/calories.log</file>
 
         <encoder>
             <charset>UTF-8</charset>
